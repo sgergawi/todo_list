@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+
+# Virtual environment
+.env
+.venv/
+venv/
+
+.idea
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+
+# Docker
+docker-compose.yml
+Dockerfile
+.docker
+.dockerignore
